@@ -1,6 +1,5 @@
-Cómo usar, Ingresa a la aplicación web.
-
-paso a paso:
+Cómo usar. 
+Ingresa a la aplicación web.
 
 Ingresa los nombres de los participantes y haz clic en "añadir".
 
